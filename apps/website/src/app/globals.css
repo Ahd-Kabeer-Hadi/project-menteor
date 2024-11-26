@@ -1,0 +1,7 @@
+@import '@repo/library/styles.css';
+
+
+
+body {
+  @apply bg-background text-foreground;
+}
